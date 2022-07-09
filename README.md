@@ -7,9 +7,10 @@
 <h4>
   Sumário: 
  <a href="#sobre">Sobre</a> • 
- <a href="#equipe-avatar">Equipe</a> • 
- <a href="#como-rodar">Como rodar</a> • 
- <a href="#youtube">Apresentação</a> •
+ <a href="#equipe">Equipe</a> • 
+ <a href="#license">Licença</a> • 
+ <a href="#como-rodar">Como rodar</a> •
+ <a href="#requisitos">Requisitos funcionais</a> •
  <a href="#documento">Relatório</a> •
 </h4>
 
@@ -23,6 +24,8 @@ O código econtrado neste repositório é de uma aplicação desenvolvida para o
   <img src="mockup.png" style="width: 800px;" />
 </div>
 
+<a name="equipe"></a>
+
 ## :busts_in_silhouette: Equipe Servy
 
 |  NOME                           |  FUNÇÃO                    |  MATRÍCULA  |
@@ -33,8 +36,12 @@ O código econtrado neste repositório é de uma aplicação desenvolvida para o
 |  Victor Mota Dos Santos         |  Codificação               |  509223     |
 |  Yanna Torres Gonçalves         |  Líder e Design            |  507773     |
 
+<a name="license"></a>
+
 ## :memo: Licença
 Este código está sobre a licença GNU. Para mais informações, veja o [LICENSE](https://github.com/Servy-Sem-Parar/projetointegrado-SMD-Servy/blob/b08aef3957dea73682f38ad95597223cbdb51267/LICENSE)
+
+<a name="como-rodar"></a>
 
 ## :grey_question: Como rodar
 
@@ -69,6 +76,8 @@ npm install
 npm run build
 npm run start
 ```
+
+<a name="requisitos"></a>
 
 ## :dart: Requisitos funcionais
 
