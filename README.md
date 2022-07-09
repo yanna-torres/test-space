@@ -63,7 +63,7 @@ npm run start
 
 |  Código                           |  Descrição                    |  Codificação  | Status | 
 |  ----------------------------   |  --------------------------|  ---------  | --------- |
-|  RFG0001     |  Mostrar tela de dashboard              |  [código](https://github.com/Servy-Sem-Parar/projetointegrado-SMD-Servy/blob/main/web/src/pages/Home/Home.tsx)     | &#10004;
+|  RFG0001     |  Mostrar tela de dashboard              |  [código](https://github.com/Servy-Sem-Parar/projetointegrado-SMD-Servy/blob/main/web/src/pages/Home/Home.tsx)     | &#10003;
 |  RFG0002     |  Requisitar listagem de turmas no dashboard               |  [código](https://github.com/Servy-Sem-Parar/projetointegrado-SMD-Servy/blob/main/web/src/pages/Home/Home.tsx)     | Feito
 |  RFG0003     |  Requisitar calendário de aulas no dashboard               |  [código](https://github.com/Servy-Sem-Parar/projetointegrado-SMD-Servy/blob/main/web/src/pages/Home/Home.tsx)     | Feito
 |  RFA0004     |  Mostrar listagem de professoras               |  [código](https://github.com/Servy-Sem-Parar/projetointegrado-SMD-Servy/blob/main/web/src/pages/Teachers/Teachers.tsx)     | Feito
