@@ -1,9 +1,9 @@
 # Projeto Sem Parar
 Keywords: Projeto Integrado - Equipe Servy - Sistemas e Mídias Digitais - Universidade Federal do Ceará
 
-## Sobre
+## :grey_question: Sobre
 
-O projeto da aplicação a ser desenvolvida ao longo do semestre terá como cliente o Projeto Sem Parar, criado em 09 de junho de 2018. O Projeto se propõe a preparar meninas, do ensino fundamental e médio, para olimpíadas científicas, com foco em astronomia, biologia, física, informática, química e matemática. Seu lema é “Meninas ensinando meninas” e visa, principalmente, estimular e aumentar a presença feminina nas competições. A escolha desse cliente se deu não apenas por admiração ao projeto, mas também por uma das administradoras ser uma amiga do ensino médio de uma das integrantes do grupo.
+O código econtrado neste repositório é de uma aplicação desenvolvida para o Projeto Sem Parar. Criado em 09 de junho de 2018, o Projeto se propõe a preparar meninas, do ensino fundamental e médio, para olimpíadas científicas, com foco em astronomia, biologia, física, informática, química e matemática. Seu lema é “Meninas ensinando meninas” e visa, principalmente, estimular e aumentar a presença feminina nas competições. Nossa solução visa principalmente ajudar o Projeto na organização de dados e distribuição de informações e materiais para as alunas.
 
 ## Equipe Servy
 
