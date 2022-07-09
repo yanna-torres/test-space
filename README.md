@@ -59,7 +59,7 @@ npm run build
 npm run start
 ```
 
-## :page_facing_up: Requisitos funcionais
+## :dart: Requisitos funcionais
 
 |  Código                           |  Descrição                    |  Codificação  | Status | 
 |  ----------------------------   |  --------------------------|  ---------  | --------- |
