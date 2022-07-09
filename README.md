@@ -4,9 +4,9 @@
 
 ##### Keywords: Projeto Integrado - Equipe Servy - Sistemas e Mídias Digitais - Universidade Federal do Ceará
 
-<h4 align="center">
-  Sumário
- <a href="#sobre">Sobre</a> • 
+<h4>
+  Sumário: 
+ <a href="#:computer:-:iphone:-sobre">Sobre</a> • 
  <a href="#equipe-avatar">Equipe</a> • 
  <a href="#como-rodar">Como rodar</a> • 
  <a href="#youtube">Apresentação</a> •
