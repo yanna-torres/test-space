@@ -1,4 +1,4 @@
-<div align="center" name="inicio">
+<div name="inicio">
   <a href="*"><img title="SemParar" src="Logo.svg" style="width: 300px;" /></a>
 </div>
 
