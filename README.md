@@ -22,6 +22,9 @@ O código econtrado neste repositório é de uma aplicação desenvolvida para o
 |  Victor Mota Dos Santos         |  Codificação               |  509223     |
 |  Yanna Torres Gonçalves         |  Líder                     |  507773     |
 
+## :memo: Licença
+Este código está sobre a licença GNU. Para mais informações, veja o [LICENSE](https://github.com/Servy-Sem-Parar/projetointegrado-SMD-Servy/blob/b08aef3957dea73682f38ad95597223cbdb51267/LICENSE)
+
 ## :grey_question: Como rodar
 
 ### Clonando o repositório
