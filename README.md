@@ -8,6 +8,10 @@
 
 O código econtrado neste repositório é de uma aplicação desenvolvida para o Projeto Sem Parar. Criado em 09 de junho de 2018, o Projeto se propõe a preparar meninas, do ensino fundamental e médio, para olimpíadas científicas, com foco em astronomia, biologia, física, informática, química e matemática. Seu lema é “Meninas ensinando meninas” e visa, principalmente, estimular e aumentar a presença feminina nas competições. Nossa solução visa principalmente ajudar o Projeto na organização de dados e distribuição de informações e materiais para as alunas.
 
+<div align="center">
+  <img src="mockup.png" style="width: 800px;" />
+</div>
+
 ## Equipe Servy
 
 |  NOME                           |  FUNÇÃO                    |  MATRÍCULA  |
