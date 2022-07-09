@@ -11,7 +11,7 @@
  <a href="#license">Licença</a> • 
  <a href="#como-rodar">Como rodar</a> •
  <a href="#requisitos">Requisitos funcionais</a> •
- <a href="#documento">Relatório</a> •
+ <a href="#documento">Relatório e Apresentação</a> •
 </h4>
 
 <a name="sobre"></a>
@@ -124,3 +124,7 @@ npm run start
 |  RFG0039     |  Editar informações do seu cadastro                |  [código](https://github.com/Servy-Sem-Parar/projetointegrado-SMD-Servy/blob/main/web/src/components/Layout/MyAccountModal/ModalsProvider.tsx)     | &#10003;
 |  RFE0040     |  Mostrar notificação de nova aula               |  X     | A fazer
 |  RFE0041     |  Mostrar tela de solicitação de cadastro               |  [código](https://github.com/Servy-Sem-Parar/projetointegrado-SMD-Servy/blob/main/mobile/src/pages/RegisterPage/RegisterPage.tsx)     | &#10003;
+
+<a name="documento"></a>
+
+## :clipboard: Relatório e apresentação do projeto
