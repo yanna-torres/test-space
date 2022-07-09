@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" name="inicio">
   <a href="*"><img title="SemParar" src="Logo.svg" style="width: 300px;" /></a>
 </div>
 
@@ -133,3 +133,7 @@ O relatório completo sobre o processo de desenvolvimento dessa aplicação pode
 
 ---
 Feito por Servy
+
+<div>
+  <a href="#inicio">Voltar ao início</a>
+</div>
