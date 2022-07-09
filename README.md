@@ -134,6 +134,6 @@ O relatório completo sobre o processo de desenvolvimento dessa aplicação pode
 ---
 Feito por Servy
 
-<div>
+<h6>
   <a href="#inicio">Voltar ao início</a>
-</div>
+</h6>
