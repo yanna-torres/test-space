@@ -12,7 +12,7 @@ O código econtrado neste repositório é de uma aplicação desenvolvida para o
   <img src="mockup.png" style="width: 800px;" />
 </div>
 
-## Equipe Servy
+## :busts_in_silhouette: Equipe Servy
 
 |  NOME                           |  FUNÇÃO                    |  MATRÍCULA  |
 |  ----------------------------   |  --------------------------|  ---------  |
@@ -22,7 +22,7 @@ O código econtrado neste repositório é de uma aplicação desenvolvida para o
 |  Victor Mota Dos Santos         |  Codificação               |  509223     |
 |  Yanna Torres Gonçalves         |  Líder                     |  507773     |
 
-## Como rodar
+## :grey_question: Como rodar
 
 ### Clonando o repositório
 
@@ -56,7 +56,7 @@ npm run build
 npm run start
 ```
 
-## Requisitos funcionais
+## :page_facing_up: Requisitos funcionais
 
 |  Código                           |  Descrição                    |  Codificação  | Status | 
 |  ----------------------------   |  --------------------------|  ---------  | --------- |
