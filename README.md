@@ -128,3 +128,8 @@ npm run start
 <a name="documento"></a>
 
 ## :clipboard: Relatório e apresentação do projeto
+
+O relatório completo sobre o processo de desenvolvimento dessa aplicação pode ser encontrador em: link. A apresentação geral do projeto pode ser econtrada em: link.
+
+---
+Feito por Servy
